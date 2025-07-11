@@ -30,7 +30,7 @@ const Stand = () => {
                         error={error}
                         onEnter={() => {
                             setError(
-                                stateForAllInputs.trim()
+                                stateForAllInputs.trim()!==''
                                     ? ''
                                     : 'Error'
                             )
@@ -44,13 +44,13 @@ const Stand = () => {
                 {/*обычная кнопка:*/}
                 <div>
                     <SuperButton id={'hw4-super-button-default'}>
-                        default
+                        Дефолтная
                     </SuperButton>
                 </div>
                 {/*красная кнопка:*/}
                 <div>
                     <SuperButton id={'hw4-super-button-red'} xType={'red'}>
-                        red
+                       Оасность
                     </SuperButton>
                 </div>
                 {/*задизэйбленная кнопка:*/}
@@ -60,7 +60,7 @@ const Stand = () => {
                         xType={'red'}
                         disabled
                     >
-                        disabled
+                        Не активна
                     </SuperButton>
                 </div>
                 {/*задизэйбленная кнопка:*/}
@@ -69,7 +69,7 @@ const Stand = () => {
                         id={'hw4-super-button-secondary'}
                         xType={'secondary'}
                     >
-                        secondary
+                      Дополнительная
                     </SuperButton>
                 </div>
             </div>
@@ -82,7 +82,7 @@ const Stand = () => {
                         checked={stateForAllCheckboxes}
                         onChangeChecked={setChecked}
                     >
-                        some text
+                        HomeTask
                     </SuperCheckbox>
                 </div>
                 {/*совместим со старым кодом:*/}

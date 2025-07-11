@@ -1,7 +1,16 @@
 .buttonsContainer {
+display: flex;
+    gap: 20px;
 }
 
 .responseContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+margin-top: 50px;
+    width: 91%;
+    align-self: center;
+    gap: 14%;
 }
 
 .imageContainer {
@@ -11,12 +20,18 @@
 }
 
 .textContainer{
+    width: 475px;
 }
 
 .code {
+    font-size: 30px;
+    margin-bottom: 10px;
 }
 
 .text {
+    font-size: 16px;
+    font-weight: 500;
 }
 .info {
+    font-size: 16px;
 }

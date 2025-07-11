@@ -19,5 +19,8 @@ html {
 }
 
 .select {
-
+border: 1px solid rgba(50, 50, 50, 1);
+    width: 171px;
+    height: 36px;
+    font-size: 14px;
 }
