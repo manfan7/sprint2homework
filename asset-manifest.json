@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sprint2homework/static/css/main.fd9f84d4.css",
-    "main.js": "/sprint2homework/static/js/main.1bef5e08.js",
+    "main.css": "/sprint2homework/static/css/main.c039b4a6.css",
+    "main.js": "/sprint2homework/static/js/main.8467ca86.js",
     "static/js/787.66cb4309.chunk.js": "/sprint2homework/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/sprint2homework/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/sprint2homework/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -14,12 +14,15 @@
     "static/media/checked.svg": "/sprint2homework/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/sprint2homework/index.html",
     "static/media/burger.svg": "/sprint2homework/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.fd9f84d4.css.map": "/sprint2homework/static/css/main.fd9f84d4.css.map",
-    "main.1bef5e08.js.map": "/sprint2homework/static/js/main.1bef5e08.js.map",
+    "static/media/Polygon 6.svg": "/sprint2homework/static/media/Polygon 6.9fa9e951c1548245cdb593b45ece746e.svg",
+    "static/media/Polygon 5.svg": "/sprint2homework/static/media/Polygon 5.ce9c9f7e7e6e46f2544b77f52f461e90.svg",
+    "static/media/Polygon 2.svg": "/sprint2homework/static/media/Polygon 2.eb566138b6a1c7b3b8bd3b2421d78859.svg",
+    "main.c039b4a6.css.map": "/sprint2homework/static/css/main.c039b4a6.css.map",
+    "main.8467ca86.js.map": "/sprint2homework/static/js/main.8467ca86.js.map",
     "787.66cb4309.chunk.js.map": "/sprint2homework/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd9f84d4.css",
-    "static/js/main.1bef5e08.js"
+    "static/css/main.c039b4a6.css",
+    "static/js/main.8467ca86.js"
   ]
 }
